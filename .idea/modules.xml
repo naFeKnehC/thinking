@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/antd/ant-design/.idea/ant-design.iml" filepath="$USER_HOME$/Downloads/antd/ant-design/.idea/ant-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Work/lb-kyj-pro-ui/.idea/lb-kyj-pro-ui.iml" filepath="$PROJECT_DIR$/../../Work/lb-kyj-pro-ui/.idea/lb-kyj-pro-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openAi.iml" filepath="$PROJECT_DIR$/.idea/openAi.iml" />
+    </modules>
+  </component>
+</project>

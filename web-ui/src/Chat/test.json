@@ -1,0 +1,12 @@
+{
+  "list": [
+    {
+      "type": "prompt",
+      "value": "以下是测试数据"
+    },
+    {
+      "type": "output",
+      "value": "以下是Java实现的冒泡排序代码部分：\n\n```java\nint[] arr = {29, 10, 14, 37, 13};\nint n = arr.length;\nfor (int i = 0; i < n; i++) {\n    for (int j = 0; j < n-i-1; j++) {\n        if (arr[j] > arr[j+1]) {\n            int temp = arr[j];\n            arr[j] = arr[j+1];\n            arr[j+1] = temp;\n        }\n    }\n}\n```"
+    }
+  ]
+}
